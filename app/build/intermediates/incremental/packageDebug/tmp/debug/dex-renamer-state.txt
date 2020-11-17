@@ -1,0 +1,4 @@
+#Tue Nov 17 17:15:27 CST 2020
+base.0=D\:\\AndroidProject\\burying\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

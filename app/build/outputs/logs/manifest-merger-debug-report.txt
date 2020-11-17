@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\78a28758e5fd648bfb421a480d2a0d03\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\89e2ab97c6fe8bcde5b8d2ef2950b73d\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:myburyinglibrary] D:\AndroidProject\burying\myburyinglibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [org.xutils:xutils:3.3.40] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\a30098c0b61926c1d37d862099250893\jetified-xutils-3.3.40\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\ef3f5633665161222a46809525df0647\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\857326b3b3010423bc7fbca3d7c495ce\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\c66cf18c57b13857648b6462bedc9f9a\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\72a3605fc2ff5f49843c6f334fa503e8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5c182e4f4b09cf97fad3c90479d7dd93\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\81d39be855aab736e707c24d4379b678\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\7379a6c9bf106c5346215d898761c3f1\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\6441a26b801371598b58e6b0fbf7d1cb\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\f3f8e8530d021094f4a4d02afd1b5efb\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\ac2bfa29c7c568dab4f6f7a36eda69c7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\268f620499d673a83a40be9f91d42e7a\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e532c805274d838ac1a25da8fa69ccbd\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5256b247e398dddca72703a52a0af1e8\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\64d4d3e4326058cf66f6e53c77238baa\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\1a408da4057c4bc9fa773d7c5fb419c7\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e52ecd2ba0c7b73a4fc2a521be2972a9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\218c0647cfe3dcec5fa980e77c245027\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\1e6f7a943a718863269549e20751e5d2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5d5072ca6735f890ec677db12b027fbb\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\78a28758e5fd648bfb421a480d2a0d03\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\78a28758e5fd648bfb421a480d2a0d03\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [org.xutils:xutils:3.3.40] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\a30098c0b61926c1d37d862099250893\jetified-xutils-3.3.40\AndroidManifest.xml:12:5-20
+MERGED from [org.xutils:xutils:3.3.40] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\a30098c0b61926c1d37d862099250893\jetified-xutils-3.3.40\AndroidManifest.xml:12:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\268f620499d673a83a40be9f91d42e7a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\268f620499d673a83a40be9f91d42e7a\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e532c805274d838ac1a25da8fa69ccbd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e532c805274d838ac1a25da8fa69ccbd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\268f620499d673a83a40be9f91d42e7a\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:6:9-32
+activity#com.ws.burying.MainActivity
+ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\78a28758e5fd648bfb421a480d2a0d03\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\78a28758e5fd648bfb421a480d2a0d03\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\89e2ab97c6fe8bcde5b8d2ef2950b73d\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\89e2ab97c6fe8bcde5b8d2ef2950b73d\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:myburyinglibrary] D:\AndroidProject\burying\myburyinglibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:myburyinglibrary] D:\AndroidProject\burying\myburyinglibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [org.xutils:xutils:3.3.40] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\a30098c0b61926c1d37d862099250893\jetified-xutils-3.3.40\AndroidManifest.xml:8:5-10:41
+MERGED from [org.xutils:xutils:3.3.40] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\a30098c0b61926c1d37d862099250893\jetified-xutils-3.3.40\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\ef3f5633665161222a46809525df0647\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\ef3f5633665161222a46809525df0647\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\857326b3b3010423bc7fbca3d7c495ce\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\857326b3b3010423bc7fbca3d7c495ce\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\c66cf18c57b13857648b6462bedc9f9a\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\c66cf18c57b13857648b6462bedc9f9a\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\72a3605fc2ff5f49843c6f334fa503e8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\72a3605fc2ff5f49843c6f334fa503e8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5c182e4f4b09cf97fad3c90479d7dd93\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5c182e4f4b09cf97fad3c90479d7dd93\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\81d39be855aab736e707c24d4379b678\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\81d39be855aab736e707c24d4379b678\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\7379a6c9bf106c5346215d898761c3f1\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\7379a6c9bf106c5346215d898761c3f1\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\6441a26b801371598b58e6b0fbf7d1cb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\6441a26b801371598b58e6b0fbf7d1cb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\f3f8e8530d021094f4a4d02afd1b5efb\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\f3f8e8530d021094f4a4d02afd1b5efb\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\ac2bfa29c7c568dab4f6f7a36eda69c7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\ac2bfa29c7c568dab4f6f7a36eda69c7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\268f620499d673a83a40be9f91d42e7a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\268f620499d673a83a40be9f91d42e7a\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e532c805274d838ac1a25da8fa69ccbd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e532c805274d838ac1a25da8fa69ccbd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5256b247e398dddca72703a52a0af1e8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5256b247e398dddca72703a52a0af1e8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\64d4d3e4326058cf66f6e53c77238baa\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\64d4d3e4326058cf66f6e53c77238baa\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\1a408da4057c4bc9fa773d7c5fb419c7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\1a408da4057c4bc9fa773d7c5fb419c7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e52ecd2ba0c7b73a4fc2a521be2972a9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\e52ecd2ba0c7b73a4fc2a521be2972a9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\218c0647cfe3dcec5fa980e77c245027\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\218c0647cfe3dcec5fa980e77c245027\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\1e6f7a943a718863269549e20751e5d2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\1e6f7a943a718863269549e20751e5d2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5d5072ca6735f890ec677db12b027fbb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\wrapper\dists\caches\transforms-2\files-2.1\5d5072ca6735f890ec677db12b027fbb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\burying\app\src\main\AndroidManifest.xml

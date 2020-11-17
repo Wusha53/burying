@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="burying/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/burying.iml" filepath="$PROJECT_DIR$/.idea/modules/burying.iml" group="burying" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myburyinglibrary/myburyinglibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/myburyinglibrary/myburyinglibrary.iml" group="burying/myburyinglibrary" />
+    </modules>
+  </component>
+</project>

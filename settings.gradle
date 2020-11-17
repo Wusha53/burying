@@ -1,0 +1,3 @@
+include ':myburyinglibrary'
+include ':app'
+rootProject.name = "burying"
